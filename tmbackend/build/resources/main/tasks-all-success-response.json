@@ -1,0 +1,52 @@
+[
+	{
+		"id": 1,
+		"title": "Case 100",
+		"description": "Burglary",
+		"status": {
+			"id": 1,
+			"status": "Backlog"
+		},
+		"due": "Tue 05 Aug 2025 09:00"
+	},
+	{
+		"id": 2,
+		"title": "Case 101",
+		"description": "Fraud",
+		"status": {
+			"id": 2,
+			"status": "In Progress"
+		},
+		"due": "Fri 08 Aug 2025 09:00"
+	},
+	{
+		"id": 3,
+		"title": "Case 102",
+		"description": "Assault",
+		"status": {
+			"id": 2,
+			"status": "In Progress"
+		},
+		"due": "Sun 10 Aug 2025 09:00"
+	},
+	{
+		"id": 4,
+		"title": "Case 103",
+		"description": "Murder",
+		"status": {
+			"id": 3,
+			"status": "Completed"
+		},
+		"due": "Mon 05 Aug 2024 09:00"
+	},
+	{
+		"id": 5,
+		"title": "Case 104",
+		"description": null,
+		"status": {
+			"id": 1,
+			"status": "Backlog"
+		},
+		"due": "Wed 05 Aug 2026 09:00"
+	}
+]

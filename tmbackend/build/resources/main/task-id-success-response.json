@@ -1,0 +1,10 @@
+{
+	"id": 1,
+	"title": "Case 100",
+	"description": "Burglary",
+	"status": {
+		"id": 1,
+		"status": "Backlog"
+	},
+	"due": "Tue 05 Aug 2025 09:00"
+}

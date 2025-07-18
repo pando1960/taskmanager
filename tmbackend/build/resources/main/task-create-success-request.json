@@ -1,0 +1,10 @@
+{
+	"id": 2,
+    "title": "Case 800",
+    "description": "Vandalism",
+    "status": {
+        "id": 2,
+        "status": "In Progress"
+    },
+    "due": "Fri 08 Aug 2025 09:00"
+}

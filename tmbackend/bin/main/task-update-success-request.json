@@ -1,0 +1,10 @@
+{
+	"id": 2,
+	"title": "Case 101",
+	"description": "Grand Theft Auto",
+	"status": {
+		"id": 2,
+		"status": "In Progress"
+	},
+	"due": "Mon 11 Aug 2025 11:00"
+}
