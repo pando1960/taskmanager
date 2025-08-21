@@ -24,6 +24,9 @@ import com.petermts.tmbackend.domain.Task;
 import com.petermts.tmbackend.service.StatusService;
 import com.petermts.tmbackend.service.TaskService;
 
+import io.swagger.v3.oas.annotations.Hidden;
+
+@SuppressWarnings("unused")
 @RestController
 @RequestMapping("/api/tasks")
 public class TaskController {
@@ -39,6 +42,7 @@ public class TaskController {
 		this.statusService = statusService;
 	}
 
+//	@Hidden
 	@GetMapping("/all")
 	public List<Task> getAllTasks() {
 		//Fetch and return all tasks.

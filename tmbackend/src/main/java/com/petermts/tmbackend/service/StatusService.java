@@ -6,7 +6,6 @@ import org.springframework.stereotype.Service;
 
 import com.petermts.tmbackend.domain.Status;
 import com.petermts.tmbackend.domain.StatusRepository;
-import com.petermts.tmbackend.domain.Task;
 
 @Service
 public class StatusService {
