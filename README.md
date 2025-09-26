@@ -21,6 +21,4 @@ This will download all the required dependencies.
 
 Run the following command to launch the frontend application:  npm run dev
 
-To view the documentation on the available api endpoints enter http://localhost:8888/swagger-ui/index.html
-
 Enjoy!
